@@ -1,4 +1,4 @@
-body{
+body {
   background: black;
   color: white;
   font-family: Helvatica;
@@ -6,9 +6,9 @@ body{
   padding: 0;
 }
 
-header{
-  background: : black;
-  padding:20 px;
+header {
+  background: black;
+  padding: 20 px;
 }
 
 ul{
@@ -19,11 +19,11 @@ ul{
   background: black;
   color: white;
 }
-.child2{
+.child2 {
   background: black;
   color: white;
 }
-.child3{
+.child3 {
   background: black;
   color: white;
 }
