@@ -9,6 +9,13 @@ body {
 header {
   background: black;
   padding: 20 px;
+<<<<<<< HEAD
+}
+
+ul{
+  list-style-type: none;
+=======
+>>>>>>> fbe282126d001da964b3b153af7b980f6d525946
 }
 
 .child1 {
@@ -22,4 +29,13 @@ header {
 .child3 {
   background: black;
   color: white;
+}
+
+
+#main-footer{
+	background: #333;
+	color: #fff;
+	text-align: center;
+	padding: 20px;
+	margin-top: 40px;
 }
