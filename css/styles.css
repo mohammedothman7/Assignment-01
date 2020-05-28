@@ -1,0 +1,20 @@
+body{
+  background-color: lightgreen; 
+}
+
+header {
+  background: black;
+  padding: 20 px;
+}
+
+ul{
+  list-style-type: none;
+}
+
+#main-footer{
+	background: #333;
+	color: #fff;
+	text-align: center;
+	padding: 20px;
+	margin-top: 40px;
+}
