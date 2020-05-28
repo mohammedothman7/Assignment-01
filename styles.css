@@ -1,0 +1,25 @@
+body{
+  background: black;
+  color: white;
+  font-family: Helvatica;
+  margin: 0;
+  padding: 0;
+}
+
+header{
+  background: : black;
+  padding:20 px;
+}
+
+.child1{
+  background: black;
+  color: white;
+}
+.child2{
+  background: black;
+  color: white;
+}
+.child3{
+  background: black;
+  color: white;
+}
