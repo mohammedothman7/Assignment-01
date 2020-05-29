@@ -1,0 +1,97 @@
+body{
+  background-color: #d3d3d3;
+   color: black;
+  margin:0;
+}
+nav{
+  position: fixed;
+  width: 100%;
+}
+
+ul {
+  list-style-type: none;
+  margin-top:0;
+  margin-bottom: auto;
+  overflow: hidden;
+  background-color: #333;
+  font-size: large;
+  font-weight: 500;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+.homepage{
+  margin: 50px;
+  width:90%;
+  height:auto;
+}
+.quotes{
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.donate{
+  font-weight: bolder;
+  float: none;
+  text-align: center;
+}
+label,button{
+  float: none;
+}
+.label{
+  float: right;
+}
+#main-footer{
+	background: #333;
+	color: #fff;
+	text-align: center;
+	padding: 20px;
+	margin-top: 40px;
+}
+
+.about,.goal, .accomp,.contacts{
+  text-align: center;
+  padding: 50px;
+  margin-bottom: 50px;
+}
+.contacts{
+  margin-left:50px;
+}
+.aboutimg,.goalimg, .accompimg{
+  float:left;
+  margin-left: 50px;
+ 
+}
+.aboutinfo, .goalinfo, .accompinfo{
+  float:none;
+  padding: 10px;
+  
+}
+.emails{
+  padding-top:20px;
+  margin: 20px;
+}
+
+.eKN p, .eAB p, .eRK p, .eMO p{
+  font-weight: bolder;
+  float: none;
+}
+
+.contacts-outro{
+  padding-top:10px ;
+  padding-bottom: 0px;
+  text-align: center;
+}
